@@ -1,0 +1,46 @@
+(R) Grimm
+(R) Black Mirror
+(R) Supernatural
+(R) Doctor Who
+(R) The Big Bang Theory
+(R) Sense8
+(R) Smallville
+(R) Arrow
+Arrow       0 0
+Gotham       0 0
+The 4400       0 0
+Os Simpsons       0 0
+Orphan Black       0 0
+Blindspot       0 0
+Breaking Bad       0 0
+Anne       0 0
+American Horror Story       0 0
+White Collar       0 0
+Westworld       0 0
+Vikings       0 0
+True Detective       0 0
+The Vampire Diaries       0 0
+The Originals       0 0
+The Flash       0 0
+The 100       0 0
+Teen Wolf       0 0
+Suits       0 0
+Stranger Things       0 0
+Sons of Anarchy       0 0
+Scorpion       0 0
+Prison Break       0 0
+Outlander       0 0
+Once Upon a Time        0 0
+Narcos       0 0
+Lucifer       0 0
+Jessica Jones       0 0
+Gossip Girl       0 0
+Friends       0 0
+Forever       0 0
+Everybody Hates Chris       0 0
+Daredevil       0 0
+Criminal Minds       0 0
+Castle       0 0
+Breaking Bad       0 0
+24       0 0
+13 Reasons Why       0 0
